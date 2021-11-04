@@ -1,0 +1,71 @@
+*{
+    
+  margin:0;
+  padding:0;
+}
+body{
+  font-family:sans-serif;
+  background-image:cover;
+}
+header{
+  background-color:white;
+
+}
+.container{
+  background-image:url('wallthiru.jpg');
+  background-size: cover;
+}
+.row{
+  margin-top: 50px;
+  margin-right: 5%;
+  margin-left: 50%;
+  float:center;
+}
+#rows{
+  margin-right: 5%;
+  margin-left: 1%;
+  padding-left: 1%;
+
+}
+#thrissur{
+  padding-left: 12%;
+}   
+#palakkad{
+   padding-left:22% ;
+}  
+#path
+{
+    padding-left: 6%;
+} 
+#kollam
+{
+    padding-left: 4.5%;
+}
+#kott
+{
+  padding-left: 4.5%;
+}
+#idukky
+{
+  padding-left: 6%;  
+}
+#ernakulam
+{
+    padding-left: 1%;
+}
+#kozhikode
+{
+  padding-left: 12%;
+}
+#wayanad
+{
+  padding-left:22% ;
+}
+#kasargod
+{
+  padding-left: 12%; 
+}
+.col-md-4{
+padding-left: 100%;
+margin-left: 0px;
+}

@@ -1,0 +1,38 @@
+*{
+    color:white;
+    margin:0;
+    padding:0;
+}
+/* .bg
+{
+    no-repeat;
+    width:50%;
+    height:100%;
+
+} */
+/* body{
+    font-family:sans-serif;
+    background-image:url("sigggn.png") "no-repeat";
+    
+    height:100vh;
+     no-repeat center center fixed;   */
+  /* -webkit-background-size: cover; */
+   /* -moz-background-size: cover; */ 
+   /* -o-background-size: cover; */ 
+  /* background-size: cover; */ 
+    
+
+header{
+    background-color:white;
+
+}
+.form-container
+{
+   border:0px  solid #fff;
+  padding:50px 60px;
+  margin-top:10vh; 
+   -webkit-box-shadow: -8px 6px 18px 10px rgba(0,0,0,0.58); 
+-moz-box-shadow: -8px 6px 18px 10px rgba(0,0,0,0.58);
+box-shadow: -8px 6px 18px 10px rgba(0,0,0,0.58); 
+
+}
